@@ -1,0 +1,57 @@
+#menu-footer li a {
+  color: #fff !important;
+}
+
+nav .brand-logo img {
+  height: 50px;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+.pagination li.active {
+  background-color: #78909c !important;
+}
+
+.page-template-dons {
+  background: url('../images/background.jpg');
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+}
+
+.dons {
+  min-height: 70vh;
+}
+
+.dons h3 {
+  color: #fff;
+}
+
+.dons h4 {
+  font-size: 45px;
+  height: 100px;
+  line-height: 100px;
+}
+
+.dons p {
+  color: #fff;
+  font-size: 20px;
+  padding: 0 20px;
+}
+
+.article-main {
+  min-height: 100vh;
+}
+
+.article-main .btn {
+  margin-bottom: 10px;
+}
+
+.article-read {
+  min-height: 70vh;
+}
+
+.intro {
+  line-height: 450px;
+  position: relative;
+}
